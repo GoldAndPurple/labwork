@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+
+<student id="">
+	<faculty></faculty>
+	<year></year>
+	<group></group>
+	<fullname></fullname>
+	<subjects>
+		<s id="1"><name></name><score></score></s>
+		<s id="2"><name></name><score></score></s>
+		<s id="3"><name></name><score></score></s>
+		<s id="4"><name></name><score></score></s>
+	</subjects>
+</student>
+<student id="1">
+	<faculty>ИВТ</faculty>
+	<year>1</year>
+	<group>ИВ-999</group>
+	<fullname>Пупкин Василий Иванович</fullname>
+	<subjects>
+		<s id="1"><name>Информатика</name><score>1</score></s>
+		<s id="2"><name>Математика</name><score>1</score></s>
+		<s id="3"><name>Физика</name><score>2</score></s>
+	</subjects>
+</student>
+<student id="2">
+	<faculty>ИВТ</faculty>
+	<year>1</year>
+	<group>ИВ-999</group>
+	<fullname>Добрыня Никитич</fullname>
+	<subjects>
+		<s id="1"><name>Красный</name><score>2</score></s>
+		<s id="2"><name>Зелёный</name><score>2</score></s>
+		<s id="3"><name>Синий</name><score>2</score></s>
+		<s id="4"><name>Жёлтый</name><score>1</score></s>
+	</subjects>
+</student>
+<student id="3">
+	<faculty>ОБЖ</faculty>
+	<year>2</year>
+	<group>О-44</group>
+	<fullname>Пронин Лев Викторович</fullname>
+	<subjects>
+		<s id="1"><name>Физ-Ра</name><score>1</score></s>
+		<s id="2"><name>Лёгкая Атлетика</name>2<score></score></s>
+		<s id="3"><name>Физические Элективы</name><score>1</score></s>
+	</subjects>
+</student>
+
+</file>
